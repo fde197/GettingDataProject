@@ -56,9 +56,9 @@ The script run_analysis.R does the following :
 The script run_analysis.R does the following :
 
 1. group the data in all_data table by subject and by activity
-2. make a loop to calculate for all the col mean and std the mean
+2. make a loop to calculate for all the col mean and std mean
 3. create a new table (data_mean) with the resul
 4. write this table on the disc in the file : merged_data_mean.txt
 
 
-### Notes : during the script execution, I use the command rm() to free the memory
+# Notes : during the script execution, I use the command rm() to free the memory
