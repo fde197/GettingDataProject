@@ -60,5 +60,5 @@ The script run_analysis.R does the following :
 3. create a new table (data_mean) with the resul
 4. write this table on the disc in the file : merged_data_mean.txt
 
-
-# Notes : during the script execution, I use the command rm() to free the memory
+<br><br>
+Notes : during the script execution, I use the command rm() to free the memory
