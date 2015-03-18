@@ -53,7 +53,8 @@ The script run_analysis.R does the following :
 
 ## Description of what the script does to produce the second tidy data
 
-The script run_analysis.R does the following : 
+The script run_analysis.R does the following :
+
 1. group the data in all_data table by subject and by activity
 2. make a loop to calculate for all the col mean and std the mean
 3. create a new table (data_mean) with the resul
