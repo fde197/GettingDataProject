@@ -572,7 +572,7 @@
 <br>   activity : 17 char - name of the activity (WALKING; WALKING_UPSTAIRS; WALKING_DOWNSTAIRS; SITTING; STANDING; LAYING)
    
 Each of the following var contain the mean of the same var in the merged_data table by subject and by activity
-ex: with subject 1 and activity WALKING, the var tBodyAcc-mean()-X contain the mean of all the rows in the table merged_data of the subject 1 with the activity WALKING
+<br>ex: with subject 1 and activity WALKING, the var tBodyAcc-mean()-X contain the mean of all the rows in the table merged_data of the subject 1 with the activity WALKING
    
 <br>   tBodyAcc-mean()-X : num
 <br>   tBodyAcc-mean()-Y : num
