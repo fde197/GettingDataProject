@@ -1,18 +1,18 @@
 ## file merged_data.txt
 
-   subject     2
-      id of the subject (1:30)
-   type        1
-      type of the subject (0 : test data; 1 : train data)
-   activity    17
-      name of the activity
-         WALKING
-         WALKING_UPSTAIRS
-         WALKING_DOWNSTAIRS
-         SITTING
-         STANDING
-         LAYING
-   tBodyAcc-mean()-X	 num
+<br>   subject     2
+<br>      id of the subject (1:30)
+<br>   type        1
+<br>      type of the subject (0 : test data; 1 : train data)
+<br>   activity    17
+<br>      name of the activity
+<br>         WALKING
+<br>         WALKING_UPSTAIRS
+<br>         WALKING_DOWNSTAIRS
+<br>         SITTING
+<br>         STANDING
+<br>         LAYING
+<br>   tBodyAcc-mean()-X	 num
 	tBodyAcc-mean()-Y	 num
 	tBodyAcc-mean()-Z	 num
 	tBodyAcc-std()-X	 num
